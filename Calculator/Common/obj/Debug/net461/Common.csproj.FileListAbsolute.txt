@@ -1,0 +1,10 @@
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\bin\Debug\net461\Common.dll
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\bin\Debug\net461\Common.pdb
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\bin\Debug\net461\Abstractions.dll
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\bin\Debug\net461\Abstractions.pdb
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.AssemblyInfo.cs
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.csproj.CopyComplete
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.dll
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Common\obj\Debug\net461\Common.pdb

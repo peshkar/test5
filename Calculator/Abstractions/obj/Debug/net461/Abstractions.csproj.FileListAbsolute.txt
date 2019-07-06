@@ -1,0 +1,7 @@
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\bin\Debug\net461\Abstractions.dll
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\bin\Debug\net461\Abstractions.pdb
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\obj\Debug\net461\Abstractions.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\obj\Debug\net461\Abstractions.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\obj\Debug\net461\Abstractions.AssemblyInfo.cs
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\obj\Debug\net461\Abstractions.dll
+C:\Users\Александр\Desktop\test-calculaetar\test-master\Abstractions\obj\Debug\net461\Abstractions.pdb
