@@ -10,29 +10,6 @@
         "runtime": {
           "lib/net45/Ninject.dll": {}
         }
-      },
-      "Abstractions/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.6.1",
-        "compile": {
-          "bin/placeholder/Abstractions.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Abstractions.dll": {}
-        }
-      },
-      "Common/1.0.0": {
-        "type": "project",
-        "framework": ".NETFramework,Version=v4.6.1",
-        "dependencies": {
-          "Abstractions": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Common.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Common.dll": {}
-        }
       }
     }
   },
@@ -51,22 +28,12 @@
         "ninject.3.3.4.nupkg.sha512",
         "ninject.nuspec"
       ]
-    },
-    "Abstractions/1.0.0": {
-      "type": "project",
-      "path": "../Abstractions/Abstractions.csproj",
-      "msbuildProject": "../Abstractions/Abstractions.csproj"
-    },
-    "Common/1.0.0": {
-      "type": "project",
-      "path": "../Common/Common.csproj",
-      "msbuildProject": "../Common/Common.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETFramework,Version=v4.6.1": [
-      "Abstractions >= 1.0.0",
-      "Common >= 1.0.0",
+      "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj",
+      "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Common\\Common.csproj",
       "Ninject >= 3.3.4"
     ]
   },
@@ -76,11 +43,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Calculator\\Calculator.csproj",
+      "projectUniqueName": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Calculator\\Calculator.csproj",
       "projectName": "Calculator",
-      "projectPath": "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Calculator\\Calculator.csproj",
+      "projectPath": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Calculator\\Calculator.csproj",
       "packagesPath": "C:\\Users\\Александр\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Calculator\\obj\\",
+      "outputPath": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Calculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Александр\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -96,11 +63,11 @@
       "frameworks": {
         "net461": {
           "projectReferences": {
-            "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj": {
-              "projectPath": "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj"
+            "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj": {
+              "projectPath": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj"
             },
-            "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Александр\\Desktop\\test-calculaetar\\test-calculatar\\Common\\Common.csproj"
+            "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Common\\Common.csproj"
             }
           }
         }
@@ -116,5 +83,25 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Common\\Common.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Common\\Common.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    },
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Не удалось найти проект \"C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj\". Убедитесь, что ссылка на проект действительна и файл проекта существует.",
+      "libraryId": "C:\\Users\\Александр\\Desktop\\GitHub calculaetr\\test-calculaetar\\test-calculatar\\Abstractions\\Abstractions.csproj",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6.1"
+      ]
+    }
+  ]
 }
